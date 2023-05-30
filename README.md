@@ -13,3 +13,5 @@ Made by ExXTreMe
 
 Fehler Ideen und Sonstiges bitte unter
 - [GitHub Issues](https://github.com/ExXTreMe315/AltVRaceMode-Public/issues)
+
+In dieser Repository ist kein Code zu finden da dieser nicht frei zugänglich ist. Diese Repository dient nur zum melden von Fehlern Ideen und sonstigem Via [GitHub Issues](https://github.com/ExXTreMe315/AltVRaceMode-Public/issues). Bespielen könnt ihr den Spielmodus aber auf dem Community Server von @[Kavalierpirat](https://www.twitch.tv/kavalierpirat/)!
